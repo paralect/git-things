@@ -1,4 +1,4 @@
-git-things
+Git Things
 ==========
 
-Some useful scripts for Git
+Some useful scripts for Git.
